@@ -1,0 +1,51 @@
+html,body{
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+    text-align:center;
+    min-width:260px;
+    color:#000000;
+    background: black;
+  }
+  li{
+    list-style: none;
+  }
+  
+  #main{
+    margin:0px auto;
+    padding:15px;
+    border-radius:15px;
+    background:#D5D5D5;
+  }
+  
+  img{
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
+  
+  #headline{
+    margin-top:50px;
+    text-align:left;
+  }
+  
+  ul{
+    max-width:550px;
+    margin:0 auto;
+    text-align:left;
+  }
+  li{
+    margin: 20px;
+  }
+  
+  #img-div{
+    margin:5px;
+    margin-top:15px;
+    width:100%;
+    border:5px #D5D5D5;
+  }
+  #img-caption{
+    margin:15px;
+  }
+  h2{
+    padding: 0 25%;
+  }
